@@ -1,0 +1,111 @@
+[
+  {
+    "id": "plat-pate-rouge",
+    "nom": "Pâte rouge au mouton braisé",
+    "description": "Pâte de maïs assaisonnée à la tomate et aux épices locales, servie avec du mouton tendre.",
+    "prix": 2500,
+    "image": "pate-rouge.webp",
+    "categorie": "Plats",
+    "populaire": true
+  },
+  {
+    "id": "plat-riz-au-gras",
+    "nom": "Riz au gras béninois",
+    "description": "Riz savoureux mijoté dans un bouillon aromatique aux légumes frais et épices du terroir.",
+    "prix": 2000,
+    "image": "riz-au-gras.webp",
+    "categorie": "Plats",
+    "populaire": true
+  },
+  {
+    "id": "plat-igname-pilee",
+    "nom": "Igname pilée sauce arachide",
+    "description": "Agoun traditionnel fondant accompagné d'une sauce onctueuse à la pâte d'arachide et viande de bœuf.",
+    "prix": 2500,
+    "image": "igname-pilee.webp",
+    "categorie": "Plats",
+    "populaire": true
+  },
+  {
+    "id": "plat-poulet-bicyclette",
+    "nom": "Poulet bicyclette braisé",
+    "description": "Poulet fermier local mariné aux aromates traditionnels et grillé à la braise.",
+    "prix": 4000,
+    "image": "poulet-bicyclette.webp",
+    "categorie": "Plats",
+    "populaire": true
+  },
+  {
+    "id": "plat-akassa-poisson",
+    "nom": "Akassa et poisson frit",
+    "description": "Pâte de maïs blanche fermentée servie avec poisson frit croustillant et sauce tomate pimentée.",
+    "prix": 1800,
+    "image": "akassa-poisson.webp",
+    "categorie": "Plats",
+    "populaire": false
+  },
+  {
+    "id": "plat-wagashi-aloco",
+    "nom": "Wagashi frit et aloco",
+    "description": "Fromage peul traditionnel doré à point, accompagné de bananes plantains frites.",
+    "prix": 1500,
+    "image": "wagashi-aloco.webp",
+    "categorie": "Plats",
+    "populaire": false
+  },
+  {
+    "id": "boisson-bissap",
+    "nom": "Jus de bissap maison",
+    "description": "Infusion de fleurs d'hibiscus bien fraîche, parfumée aux feuilles de menthe et vanille.",
+    "prix": 500,
+    "image": "jus-bissap.webp",
+    "categorie": "Boissons",
+    "populaire": true
+  },
+  {
+    "id": "boisson-gingembre",
+    "nom": "Jus de gingembre frais",
+    "description": "Boisson tonifiante au gingembre frais pressé et relevée d'une pointe d'ananas.",
+    "prix": 500,
+    "image": "jus-gingembre.webp",
+    "categorie": "Boissons",
+    "populaire": false
+  },
+  {
+    "id": "boisson-baobab",
+    "nom": "Jus de baobab",
+    "description": "Nectar velouté préparé à partir de pulpe naturelle de pain de singe (fruit du baobab).",
+    "prix": 700,
+    "image": "jus-baobab.webp",
+    "categorie": "Boissons",
+    "populaire": true
+  },
+  {
+    "id": "dessert-degue",
+    "nom": "Dèguè au yaourt",
+    "description": "Couscous de mil tendre mélangé à un yaourt crémeux et légèrement sucré.",
+    "prix": 800,
+    "image": "degue.webp",
+    "categorie": "Desserts",
+    "populaire": true
+  },
+  {
+    "id": "dessert-tale-tale",
+    "nom": "Talé talé",
+    "description": "Délicieux beignets traditionnels à la banane mûre, croustillants dehors et moelleux dedans.",
+    "prix": 500,
+    "image": "tale-tale.webp",
+    "categorie": "Desserts",
+    "populaire": false
+  },
+  {
+    "id": "dessert-salade-fruits",
+    "nom": "Coupe de fruits frais",
+    "description": "Sélection de fruits tropicaux de saison : ananas pain de sucre, mangue et papaye.",
+    "prix": 1000,
+    "image": "salade-fruits.webp",
+    "categorie": "Desserts",
+    "populaire": false
+  }
+]
+
