@@ -4,12 +4,49 @@
   "quartier": "Madina",
   "pays": "Bénin",
   "slogan": "Les saveurs authentiques du Bénin",
-  "description": "Restaurant traditionnel et convivial situé au quartier Madina à Djougou. Dégustez nos spécialités culinaires béninoises préparées avec passion et des ingrédients locaux de premier choix.",
+  "description": "Une cuisine généreuse, préparée dans le respect des traditions culinaires béninoises à Djougou. Chaque assiette célèbre le terroir de l'Atacora-Donga.",
   "telephone": "+229 97 00 00 00",
   "whatsapp": "22997000000",
   "adresse": "Quartier Madina, Djougou",
+  "adresse_details": "République du Bénin • Axe principal Madina",
   "horaires": "Tous les jours, 11h - 22h",
+  "horaires_details": "Lundi — Dimanche : 11h00 — 22h00",
   "facebook": "https://facebook.com/recettedafrique",
-  "instagram": "https://instagram.com/recettedafrique"
+  "instagram": "https://instagram.com/recettedafrique",
+  "atouts": [
+    {
+      "valeur": "100%",
+      "titre": "Produits Locaux"
+    },
+    {
+      "valeur": "11h - 22h",
+      "titre": "Service Continu"
+    },
+    {
+      "valeur": "Fait Maison",
+      "titre": "Chaque Jour"
+    },
+    {
+      "valeur": "Madina",
+      "titre": "Cœur de Djougou"
+    }
+  ],
+  "histoire": [
+    "Née dans le quartier Madina à Djougou, Recette d'Afrique perpétue l'art de recevoir et de cuisiner hérité des grandes familles du Nord-Bénin. Chez nous, la cuisine ne s'accélère pas : elle mijote lentement dans les marmites en fonte pour libérer toute l'essence des condiments locaux.",
+    "Chaque aurore, nous sélectionnons les ignames les plus douces, les piments frais, le beurre de karité raffiné et les volailles de nos éleveurs partenaires de la Donga. Une transmission vivante qui réunit toutes les générations autour d'un même repas généreux et sincère."
+  ],
+  "piliers": [
+    {
+      "titre": "100% Terroir",
+      "description": "Produits maraîchers locaux"
+    },
+    {
+      "titre": "Recettes Pures",
+      "description": "Savoir-faire ancestral"
+    },
+    {
+      "titre": "Fait Maison",
+      "description": "Préparé chaque matin"
+    }
+  ]
 }
-

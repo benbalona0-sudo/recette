@@ -1,46 +1,50 @@
 [
   {
     "id": "plat-pate-rouge",
-    "nom": "Pâte rouge au mouton braisé",
-    "description": "Pâte de maïs assaisonnée à la tomate et aux épices locales, servie avec du mouton tendre.",
+    "nom": "Pâte rouge",
+    "description": "Amiwo béninois traditionnel cuit dans un savoureux bouillon de tomates et d'épices douces, accompagné de volaille marinée.",
     "prix": 2500,
-    "image": "pate-rouge.webp",
+    "image": "plat-pate-rouge.webp",
     "categorie": "Plats",
-    "populaire": true
+    "populaire": true,
+    "badge": "Incontournable"
   },
   {
     "id": "plat-riz-au-gras",
-    "nom": "Riz au gras béninois",
-    "description": "Riz savoureux mijoté dans un bouillon aromatique aux légumes frais et épices du terroir.",
+    "nom": "Riz au gras",
+    "description": "Riz parfumé façon Ouest-Africaine mijoté avec des légumes croquants, condiments du terroir et viande tendre fondante.",
     "prix": 2000,
-    "image": "riz-au-gras.webp",
+    "image": "plat-riz-au-gras.webp",
     "categorie": "Plats",
-    "populaire": true
-  },
-  {
-    "id": "plat-igname-pilee",
-    "nom": "Igname pilée sauce arachide",
-    "description": "Agoun traditionnel fondant accompagné d'une sauce onctueuse à la pâte d'arachide et viande de bœuf.",
-    "prix": 2500,
-    "image": "igname-pilee.webp",
-    "categorie": "Plats",
-    "populaire": true
+    "populaire": true,
+    "badge": "Classique"
   },
   {
     "id": "plat-poulet-bicyclette",
-    "nom": "Poulet bicyclette braisé",
-    "description": "Poulet fermier local mariné aux aromates traditionnels et grillé à la braise.",
-    "prix": 4000,
-    "image": "poulet-bicyclette.webp",
+    "nom": "Poulet bicyclette",
+    "description": "Poulet fermier local à la chair ferme, mariné aux aromates traditionnels et braisé au feu de bois pour un croustillant parfait.",
+    "prix": 3500,
+    "image": "plat-poulet-bicyclette.webp",
     "categorie": "Plats",
-    "populaire": true
+    "populaire": true,
+    "badge": "Braisé Minute"
+  },
+  {
+    "id": "plat-igname-pilee",
+    "nom": "Igname pilée",
+    "description": "Agoun traditionnel d'igname blanche du Nord pilée au mortier avec onctuosité, accompagnée d'une sauce arachide ou graine parfumée.",
+    "prix": 2000,
+    "image": "plat-igname-pilee.webp",
+    "categorie": "Plats",
+    "populaire": true,
+    "badge": "Terroir Nord"
   },
   {
     "id": "plat-akassa-poisson",
     "nom": "Akassa et poisson frit",
     "description": "Pâte de maïs blanche fermentée servie avec poisson frit croustillant et sauce tomate pimentée.",
     "prix": 1800,
-    "image": "akassa-poisson.webp",
+    "image": "plat-akassa-poisson.webp",
     "categorie": "Plats",
     "populaire": false
   },
@@ -49,7 +53,7 @@
     "nom": "Wagashi frit et aloco",
     "description": "Fromage peul traditionnel doré à point, accompagné de bananes plantains frites.",
     "prix": 1500,
-    "image": "wagashi-aloco.webp",
+    "image": "plat-wagashi-aloco.webp",
     "categorie": "Plats",
     "populaire": false
   },
@@ -108,4 +112,3 @@
     "populaire": false
   }
 ]
-
